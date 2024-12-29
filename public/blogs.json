@@ -1,0 +1,52 @@
+[
+  {
+    "id": "101",
+    "cover": "https://i.ibb.co.com/vkHFczD/DALL-E-2024-12-30-01-30-17-A-futuristic-and-visually-captivating-cover-image-for-a-blog-titled-The-F.webp",
+    "title": "The Future of Artificial Intelligence",
+    "author": "Jane Doe",
+    "author_img": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+    "publish_date": "2024-12-29",
+    "reading_time": 5,
+    "hashtags": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": "102",
+    "cover": "https://i.ibb.co.com/KyDVmNm/DALL-E-2024-12-30-01-31-04-A-vibrant-and-visually-captivating-cover-image-for-a-blog-titled-Web-Deve.webp",
+    "title": "Top 10 Web Development Trends in 2024",
+    "author": "John Smith",
+    "author_img": "https://as1.ftcdn.net/v2/jpg/03/02/88/46/1000_F_302884605_actpipOdPOQHDTnFtp4zg4RtlWzhOASp.jpg",
+    "publish_date": "2024-12-28",
+    "reading_time": 7,
+    "hashtags": ["#WebDevelopment", "#Programming", "#Trends"]
+  },
+  {
+    "id": "103",
+    "cover": "https://i.ibb.co.com/VWRcPj2/DALL-E-2024-12-30-01-31-50-A-visually-engaging-cover-image-for-a-blog-titled-How-to-Boost-Productivi.webp",
+    "title": "How to Boost Productivity While Working Remotely",
+    "author": "Emily Clark",
+    "author_img": "https://as1.ftcdn.net/v2/jpg/02/99/04/20/1000_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+    "publish_date": "2024-12-27",
+    "reading_time": 6,
+    "hashtags": ["#Productivity", "#RemoteWork", "#Lifestyle"]
+  },
+  {
+    "id": "104",
+    "cover": "https://i.ibb.co.com/N6Xxqgw/DALL-E-2024-12-30-01-32-19-A-visually-stunning-cover-image-for-a-blog-titled-Exploring-the-World-of.webp",
+    "title": "Exploring the World of Quantum Computing",
+    "author": "Alice Johnson",
+    "author_img": "https://t4.ftcdn.net/jpg/03/03/11/75/240_F_303117590_NNmo6BS2fOBEmDp8uKs2maYmt03t8fSL.jpg",
+    "publish_date": "2024-12-26",
+    "reading_time": 8,
+    "hashtags": ["#QuantumComputing", "#Innovation", "#Science"]
+  },
+  {
+    "id": "105",
+    "cover": "https://i.ibb.co.com/Dbfrt0N/DALL-E-2024-12-30-01-32-41-A-thoughtful-and-visually-calming-cover-image-for-a-blog-titled-The-Impor.webp",
+    "title": "The Importance of Mental Health Awareness",
+    "author": "Michael Brown",
+    "author_img": "https://t3.ftcdn.net/jpg/01/80/70/48/240_F_180704843_lo6Lp2A1AmPNXgECoOfLx2XLhGLcQ1N1.jpg",
+    "publish_date": "2024-12-25",
+    "reading_time": 4,
+    "hashtags": ["#MentalHealth", "#Wellness", "#Awareness"]
+  }
+]
