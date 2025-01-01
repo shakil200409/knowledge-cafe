@@ -16,7 +16,7 @@ const Blog = ({ blog, handleToSetBookmark }) => {
   return (
     <div className="my-10 border-b">
       <img
-        className="rounded-lg mt-4"
+        className="rounded-lg md:rounded-xl mt-4"
         src={cover}
         alt={`Thumbnail of ${title}`}
       />
